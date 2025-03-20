@@ -62,4 +62,11 @@ python main.py
 6. **Display Results**: Draws bounding boxes and labels on detected faces, displaying the results in a window.
 
 ## Results
+
+For this example we will use Jim Parsons as the known identity. Accordingly, we expect the system will detect and identify which face in the image belongs to Jim Parsons!
+
 <img src="./demo/results.jpg" width="65%">
+
+
+Hope you enjoyed this tutorial! Happy coding! 🚀
+
